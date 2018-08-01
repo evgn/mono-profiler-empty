@@ -1,0 +1,17 @@
+# Visual Studio and ReSharper files
+_ReSharper.Caches/
+.vs/
+ipch/
+Debug/
+Release/
+x64/
+*.sdf
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Temp files
+*.tmp
+*.tmp_proj
+*.orig
